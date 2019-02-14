@@ -1,0 +1,15 @@
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\RabbitMqSender.exe.config
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\RabbitMqSender.exe
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\RabbitMqSender.pdb
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\obj\Debug\RabbitMqSender.csprojAssemblyReference.cache
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\obj\Debug\RabbitMqSender.csproj.CoreCompileInputs.cache
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\obj\Debug\RabbitMqSender.exe
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\obj\Debug\RabbitMqSender.pdb
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\RabbitMQ.Client.dll
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\bin\Debug\RabbitMQ.Client.xml
+C:\Users\eozguner\source\repos\RabbitMq\RabbitMqSender\obj\Debug\RabbitMqSender.csproj.CopyComplete
